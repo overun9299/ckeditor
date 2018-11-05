@@ -44,4 +44,5 @@ CKEDITOR.editorConfig = function( config ) {
     // config.filebrowserImageUploadUrl= "/blog/uploadEditorImage";
     // 上传图片路径
     config.filebrowserImageUploadUrl = "/cke/CKEditor/imageUpload";
+    config.imageUploadUrl = '/cke/CKEditor/imageUpload';
 };
